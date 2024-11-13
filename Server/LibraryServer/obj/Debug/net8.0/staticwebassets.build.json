@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ZYesEFtt0fOkcjXgyp8dUQFVQdN/seJHCS0eac3x7iQ=",
+  "Source": "LibraryServer",
+  "BasePath": "_content/LibraryServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibraryServer\\wwwroot",
+      "Source": "LibraryServer",
+      "ContentRoot": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\wwwroot\\",
+      "BasePath": "_content/LibraryServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

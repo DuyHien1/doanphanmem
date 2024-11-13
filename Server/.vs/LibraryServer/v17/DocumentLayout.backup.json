@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\readercardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\readercardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\authors1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\authors1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\bookimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\bookimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\migrations\\20241029085147_alternative_library2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\migrations\\20241029085147_alternative_library2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\migrations\\20240719025103_new-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\migrations\\20240719025103_new-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\books1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\books1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\borrowcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\borrowcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\migrations\\20240720091634_new-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\migrations\\20240720091634_new-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\borrowcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\borrowcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\migrations\\20240719031937_update-date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\migrations\\20240719031937_update-date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\reportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\reportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719023842_new-comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\librarianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\librarianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\returncardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\returncardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\controllers\\reportcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\controllers\\reportcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\readercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\readercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|c:\\users\\hdh17\\downloads\\code\\code\\libraryserver\\libraryserver\\models\\returncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84282510-412E-4C0E-8AE4-F8599277FF55}|LibraryServer\\LibraryServer.csproj|solutionrelative:libraryserver\\models\\returncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712145030_new-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143908_new-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143459_fix_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240705162952_qualified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nam4_hk2\\Advanced_App\\API danh ba\\fb_server\\danhba_server\\Controllers\\TicketsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAArwNEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:53:00.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:27:52.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Program.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Program.cs",
+              "RelativeToolTip": "LibraryServer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:09:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Account.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:06:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookImageUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\BookImageUploadDto.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\BookImageUploadDto.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\BookImageUploadDto.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\BookImageUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:04:22.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:52:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:28:04.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryServer\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:53:21.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReaderCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReaderCardsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\ReaderCardsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReaderCardsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\ReaderCardsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:54:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\appsettings.json",
+              "RelativeToolTip": "LibraryServer\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T11:08:36.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240719025103_new-database.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719025103_new-database.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Migrations\\20240719025103_new-database.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719025103_new-database.cs",
+              "RelativeToolTip": "LibraryServer\\Migrations\\20240719025103_new-database.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:51:03.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Books1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\Books1Controller.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\Books1Controller.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\Books1Controller.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\Books1Controller.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:44:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authors1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\Authors1Controller.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\Authors1Controller.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\Authors1Controller.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\Authors1Controller.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:45:31.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LibraryServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\appsettings.Development.json",
+              "RelativeToolTip": "LibraryServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T08:35:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:52:38.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BorrowCard.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\BorrowCard.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\BorrowCard.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\BorrowCard.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\BorrowCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:28:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Comment.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Comment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:42:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:08:10.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240720091634_new-migration.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240720091634_new-migration.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Migrations\\20240720091634_new-migration.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240720091634_new-migration.cs",
+              "RelativeToolTip": "LibraryServer\\Migrations\\20240720091634_new-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:16:34.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BorrowCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\BorrowCardsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\BorrowCardsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\BorrowCardsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\BorrowCardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:53:18.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240719031937_update-date.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719031937_update-date.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Migrations\\20240719031937_update-date.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719031937_update-date.cs",
+              "RelativeToolTip": "LibraryServer\\Migrations\\20240719031937_update-date.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:19:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportCard.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReportCard.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\ReportCard.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReportCard.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\ReportCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:27:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:42:50.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Reader.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:07:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Librarian.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:26:25.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\Publisher.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:27:31.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240719023842_new-comments.cs",
+              "DocumentMoniker": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719023842_new-comments.cs",
+              "ToolTip": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240719023842_new-comments.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:38:43.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReadersController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReadersController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\ReadersController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReadersController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\ReadersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:54:23.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:46:54.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LibrariansController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\LibrariansController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\LibrariansController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\LibrariansController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\LibrariansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:53:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:54:01.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReturnCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReturnCardsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\ReturnCardsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReturnCardsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\ReturnCardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:55:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReportCardsController.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Controllers\\ReportCardsController.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Controllers\\ReportCardsController.cs",
+              "RelativeToolTip": "LibraryServer\\Controllers\\ReportCardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:55:25.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReaderCard.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReaderCard.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\ReaderCard.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReaderCard.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\ReaderCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:27:05.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReturnCard.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReturnCard.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Models\\ReturnCard.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Models\\ReturnCard.cs",
+              "RelativeToolTip": "LibraryServer\\Models\\ReturnCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:28:36.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240712145030_new-database.cs",
+              "DocumentMoniker": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712145030_new-database.cs",
+              "ToolTip": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712145030_new-database.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:50:31.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240712143908_new-data.cs",
+              "DocumentMoniker": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143908_new-data.cs",
+              "ToolTip": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143908_new-data.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:39:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240712143459_fix_book.cs",
+              "DocumentMoniker": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143459_fix_book.cs",
+              "ToolTip": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240712143459_fix_book.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:34:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240705162952_qualified.cs",
+              "DocumentMoniker": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240705162952_qualified.cs",
+              "ToolTip": "D:\\nam4_hk3\\CNPM ly thuy\u1EBFt\\code\\LibraryServer\\LibraryServer\\Migrations\\20240705162952_qualified.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:29:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\nam4_hk2\\Advanced_App\\API danh ba\\fb_server\\danhba_server\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\nam4_hk2\\Advanced_App\\API danh ba\\fb_server\\danhba_server\\Controllers\\TicketsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:36:17.439Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241029085147_Alternative_Library2.cs",
+              "DocumentMoniker": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20241029085147_Alternative_Library2.cs",
+              "RelativeDocumentMoniker": "LibraryServer\\Migrations\\20241029085147_Alternative_Library2.cs",
+              "ToolTip": "C:\\Users\\hdh17\\Downloads\\code\\code\\LibraryServer\\LibraryServer\\Migrations\\20241029085147_Alternative_Library2.cs",
+              "RelativeToolTip": "LibraryServer\\Migrations\\20241029085147_Alternative_Library2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:51:47.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
